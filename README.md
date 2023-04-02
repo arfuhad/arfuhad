@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arfuhad
 - 👀 I’m interested in Mobile Application Developing, Backend Server design, New Software Architectures and Development Process
-- 🌱 I’m currently working as Flutter Developer with Active enthusiastic in Django Development
-- 💞️ I’m looking to collaborate on Flutter and Django projects
+- 🌱 I’m currently working as Flutter Developer with Active enthusiastic in Node Development
+- 💞️ I’m looking to collaborate on Flutter and Node projects
 - 📫 How to reach me fuhad1987@gmail.com
 
 <!---
